@@ -42,9 +42,6 @@
         <Bug pattern="INT_BAD_REM_BY_1" />
     </Match>
     <Match>
-        <Bug pattern="ICAST_IDIV_CAST_TO_DOUBLE" />
-    </Match>
-    <Match>
         <Bug pattern="FE_FLOATING_POINT_EQUALITY" />
     </Match>
     <Match>
@@ -87,9 +84,6 @@
         <Bug pattern="RCN_REDUNDANT_NULLCHECK_OF_NONNULL_VALUE" />
     </Match>
     <!-- fb-contrib -->
-    <Match>
-        <Bug pattern="OCP_OVERLY_CONCRETE_PARAMETER" />
-    </Match>
     <Match>
         <Bug pattern="LSC_LITERAL_STRING_COMPARISON" />
     </Match>
